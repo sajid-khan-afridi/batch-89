@@ -300,6 +300,10 @@ _8 min · one prompt, a working tool_
 
 **Goal:** Use the **Goal / Input / Output** shape to build a real, working mini-tool.
 
+- Goal: What should this thing do?
+- Input: What does the user provide?
+- Output: What does the user see?
+
 **The Typing Game:**
 
 ```text
