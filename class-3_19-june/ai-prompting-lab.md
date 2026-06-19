@@ -1,4 +1,4 @@
-# AI Prompting Lab
+# AI Prompting 2026 Lab
 
 ### All 13 concepts, one hands-on exercise each
 
@@ -298,25 +298,24 @@ an Eid greeting card. I will paste it into an image tool.
 
 _8 min · one prompt, a working tool_
 
-⚡ **Needs:** a tool with Artifacts (Claude) or Canvas (ChatGPT / Gemini)
-
 **Goal:** Use the **Goal / Input / Output** shape to build a real, working mini-tool.
 
-**The three-slot recipe:**
+**The Typing Game:**
 
-```
-You are an app builder. Build me a simple bill-splitting calculator.
-Goal: split a restaurant bill among friends.
-Input: I type the total bill amount in rupees and the number of people.
-Output: show how much each person should pay. Keep it clean and easy to use.
+```text
+You are an app builder. Build me a simple typing game for a 7-year-old.
+Goal: type falling words before they reach the bottom.
+Input: words fall from the top of the screen, and the player types each word.
+Output: a cat mascot cheers when the player succeeds, and the speed increases with each level. Keep it fun, simple, and good enough for a kid to play within an hour.
 Show me the working version.
 ```
 
-**Then — iterate on it** (it's a live artifact, so it edits in place rather than rebuilding):
+**Then — iterate on it** (it’s a live artifact, so it edits in place rather than rebuilding):
 
+```text
+Change the cat’s color.
 ```
-Make the buttons bigger, change the colour theme to green, and add a box where I can
-enter an optional service charge percentage.
+
 ```
 
 **The lesson:** The skill isn't coding — it's writing a clear brief (Goal / Input / Output) and improving it step by step. Small, one-screen tools work best.
@@ -334,9 +333,11 @@ _10 min · expose the silent failure mode_
 **Round 1 — the trap** (don't mention code). In a fresh chat, paste this exactly:
 
 ```
+
 Here are 18 test scores out of 100: 47, 52, 89, 91, 23, 67, 78, 12, 95, 44, 88, 71,
 33, 56, 99, 18, 64, 82. Tell me the average score, the middle (median) score, and
 which scores are unusually high or low. Be specific.
+
 ```
 
 Did it show a code block that actually ran — or just a paragraph with numbers? Note your answer.
@@ -344,8 +345,10 @@ Did it show a code block that actually ran — or just a paragraph with numbers?
 **Round 2 — the fix** (force the code):
 
 ```
+
 Now do that calculation again — but this time write and run code to do it, and show me
 the code you used.
+
 ```
 
 > **Answer key:** median **65.5**, average **≈ 61.6**, no clear outliers (the spread is fairly even). If your Round 1 numbers were off, you just saw the silent failure mode in action.
@@ -353,9 +356,11 @@ the code you used.
 **Bonus (if you have a spreadsheet)** — ⚡ **Needs:** any CSV (a household budget, student marks, an expenses tracker):
 
 ```
+
 Here is a CSV file. Before analysing anything, tell me the exact number of rows, the
 column names, and the date range. Then write and run code to show me the 3 most
 interesting patterns, with a chart. Show me the code you ran.
+
 ```
 
 **The lesson:** Always say _"write and run code, show me the code."_ No code block usually means it guessed.
@@ -377,11 +382,13 @@ _5 min · mostly a read + plan exercise_
 **Practice the "plan, don't act" habit in any chat:**
 
 ```
+
 Imagine you are an AI assistant with permission to reorganize a messy folder of 50
 personal files on my computer (photos, scanned documents, bills, and PDFs — including
 sensitive ones like CNIC and bank copies).
 Before doing anything, write me a step-by-step SAFE plan you would follow so that nothing
 is lost or wrongly renamed. Then list 3 things I should NEVER allow you to do.
+
 ```
 
 **The rule to memorize — the safe order is always:**
@@ -405,9 +412,11 @@ _8 min · same prompt, two tools_
 **Run the SAME prompt in both.** Paste it into Tool A, then Tool B, and read both answers:
 
 ```
+
 You are a helpful planner. Plan a relaxing Sunday for someone who works hard all week
 and lives in a Pakistani city. Give me a simple hour-by-hour plan from 9am to 9pm,
 using cheap or free activities.
+
 ```
 
 **The lesson:** There's no single "best" AI — capability is _jagged_. Keep two tabs open so you always have a tiebreaker. Re-test every month or so; the leaders rotate.
@@ -427,9 +436,11 @@ _10 min · an objective quality signal_
 **Step 1 — grade it in Tool A.** Take any 150–250 word thing you wrote (a leave application to a headmaster, a notice to parents, an email, or your message from Exercise 7). Paste it, then:
 
 ```
+
 You are a strict but fair editor. Score this draft from 1 to 10 on clarity, structure,
 evidence, and what's missing — give one sentence of reasoning for each score.
 Then tell me the single change that would raise the lowest score the most.
+
 ```
 
 **Step 2 — same draft, same prompt, Tool B.** Open a _different-family_ tool and paste the exact same draft and prompt.
@@ -447,3 +458,4 @@ Then tell me the single change that would raise the lowest score the most.
 > **Get the right context in, keep the wrong context out.**
 
 _A 13-exercise companion to "AI Prompting in 2026." Split it across sessions — Part 1 & 2 first, Part 3 & 4 later. Where you see **Needs**, a little setup is required; no setup today? Read it and come back when you can._
+```
