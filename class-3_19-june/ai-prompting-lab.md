@@ -338,8 +338,6 @@ Show me the working version.
 Change the cat’s color.
 ```
 
-```
-
 **The lesson:** The skill isn't coding — it's writing a clear brief (Goal / Input / Output) and improving it step by step. Small, one-screen tools work best.
 
 **✍ Write it down:** Did it work on the first try? What did you change in the iterate step?
@@ -480,4 +478,4 @@ Then tell me the single change that would raise the lowest score the most.
 > **Get the right context in, keep the wrong context out.**
 
 _A 13-exercise companion to "AI Prompting in 2026." Split it across sessions — Part 1 & 2 first, Part 3 & 4 later. Where you see **Needs**, a little setup is required; no setup today? Read it and come back when you can._
-```
+
