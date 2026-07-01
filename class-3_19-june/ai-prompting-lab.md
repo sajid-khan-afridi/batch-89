@@ -198,6 +198,12 @@ Think hard before you answer. Then give me:
 
 **✍ Write it down:** Did "think hard" produce a deeper answer? What changed?
 
+### Comparison of time taken(see the chats)
+
+- [**With** Think Hard:](https://chatgpt.com/share/6a44d8f4-db30-83ee-9d54-ef76baa252ac)
+
+- [**Without** Think Hard:](https://chatgpt.com/share/6a44d90d-8188-83e8-9750-51a3f7e25edb)
+
 ---
 
 ## 6. Stop the Flattery
