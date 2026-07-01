@@ -304,7 +304,7 @@ an Eid greeting card. I will paste it into an image tool.
 
 ### Image
 
-## [**shared chat**](https://chatgpt.com/share/6a451d9d-4904-83ee-bb60-d05f1ac29e11)
+[**shared chat**](https://chatgpt.com/share/6a451d9d-4904-83ee-bb60-d05f1ac29e11)
 
 ### Audio
 
