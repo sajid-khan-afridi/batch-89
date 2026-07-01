@@ -302,6 +302,12 @@ an Eid greeting card. I will paste it into an image tool.
 
 ---
 
+### Audio
+
+[**shared chat**](https://chatgpt.com/share/6a44fb5a-efe4-83e8-b0d9-921b0e97b3dd)
+
+---
+
 ## 9. Build a Small App
 
 _8 min · one prompt, a working tool_
