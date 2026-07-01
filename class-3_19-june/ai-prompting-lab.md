@@ -302,11 +302,11 @@ an Eid greeting card. I will paste it into an image tool.
 
 ---
 
-### Image
+### Image(see the chats)
 
 [**shared chat**](https://chatgpt.com/share/6a451d9d-4904-83ee-bb60-d05f1ac29e11)
 
-### Audio
+### Audio(see the chats)
 
 [**shared chat**](https://chatgpt.com/share/6a44fb5a-efe4-83e8-b0d9-921b0e97b3dd)
 
