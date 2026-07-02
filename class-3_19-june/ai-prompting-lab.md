@@ -344,6 +344,14 @@ Change the cat’s color.
 
 ---
 
+---
+
+### Working Game(see the chats)
+
+[**shared chat**](https://chatgpt.com/share/6a4542c7-5194-83ee-98c9-30cbe2b13683)
+
+---
+
 ## 10. Data Analysis
 
 _10 min · expose the silent failure mode_
@@ -478,4 +486,3 @@ Then tell me the single change that would raise the lowest score the most.
 > **Get the right context in, keep the wrong context out.**
 
 _A 13-exercise companion to "AI Prompting in 2026." Split it across sessions — Part 1 & 2 first, Part 3 & 4 later. Where you see **Needs**, a little setup is required; no setup today? Read it and come back when you can._
-
