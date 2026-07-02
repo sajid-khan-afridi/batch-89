@@ -350,9 +350,10 @@ Change the cat’s color.
 
 [**Typing Game shared chat**](https://chatgpt.com/share/6a4542c7-5194-83ee-98c9-30cbe2b13683)
 
-#### Snake Game
+#### Snake Game(see the chats)
 
 [**Exploring Idea for Snake Game shared chat**](https://chatgpt.com/share/6a45acd7-c900-83e8-b388-69e1b0b0001a)
+
 [**Snake Game shared chat**](https://chatgpt.com/share/6a45af9b-2340-83ee-9643-acbc70515427)
 
 ---
