@@ -403,6 +403,14 @@ interesting patterns, with a chart. Show me the code you ran.
 
 ---
 
+---
+
+### Working with Excel(see the chats)
+
+[**Shared chat**](https://chatgpt.com/share/6a45b539-1268-83e8-bb4f-55b8c3e0d328)
+
+---
+
 # PART 4 · Working safely & choosing tools
 
 ## 11. Desktop Apps & Permissions
